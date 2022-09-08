@@ -6,6 +6,8 @@ Here is the csv file with time-stamped commments, starting in 2004.
 
 [COMPILED_GSSL_THREAD.csv](https://docs.google.com/spreadsheets/d/e/2PACX-1vSS_FwQsV4UeOD_JfYzM5SHk555R5p9gVxpgY2Bl2S1JEARZHV6ghMUUN9aiQ__X0h-sGdpz7w4L4ie/pub?output=csv)
 
+![](GSSL_csv_screenshot.png)
+
 ------
 
 
