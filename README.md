@@ -13,15 +13,18 @@ offline copy: [COMPILED_GSSL_THREAD.csv](https://docs.google.com/spreadsheets/d/
 
 Many thanks go to Jakob Gyraf & the community at GroupDIY for this wonderful GSSL compressor!
 
-Motivation: like many threads on GroupDIY, the help thread is many pages long and very hard to search effectively. So, this code will collate all the comments from the forum and put them into .csv file. you can use microsoft excel or google sheets to filter the message column and search for keywords if you want, like for example:
+Motivation: like many threads on GroupDIY, the help thread is many pages long and very hard to search effectively. So, to solve this problem:
+1. This code will collate all the comments from the forum and put them into ```.csv``` file. 
+2. Then you can use microsoft excel or google sheets or whatever to filter the message column and search for keywords if you want, like for example:
 
-- ``` "Resistor R2 Measured volts " ```
-- ``` "Distortion at low volume" ```
-- ``` "Oscillation" ```
+- ```Resistor R2 Measured volts```
+- ```Distortion at low volume```
+- ```Oscillation```
 
-or whatever. Then you can sift through the relevant comments. The goal is to simplify and facilitate the process of troubleshooting, so that we can spend more time recording.
 
-The script is a python creation which uses beautiful soup to scrape the entire thread, and then dumps it into a csv file
+Then you can sift through the relevant comments. The goal is to simplify and facilitate the process of troubleshooting, so that we can spend more time recording.
+
+The script is python3, uses beautiful soup to scrape the entire thread, and then dumps it into a csv file. Should be easy to adapt for other threads.
 
 **build/run instructions:**
 
