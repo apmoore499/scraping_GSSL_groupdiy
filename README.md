@@ -2,7 +2,7 @@
 
 # IF YOU HAVE COME HERE FOR COMPILED BUILD THREAD FOR GYRAF SSL COMP
 
-Here is the csv file with all comments. Also included in repo.
+Here is the csv file with time-stamped commments, starting in 2004.
 
 [COMPILED_GSSL_THREAD.csv](https://docs.google.com/spreadsheets/d/e/2PACX-1vSS_FwQsV4UeOD_JfYzM5SHk555R5p9gVxpgY2Bl2S1JEARZHV6ghMUUN9aiQ__X0h-sGdpz7w4L4ie/pub?output=csv)
 
@@ -19,7 +19,8 @@ Like many threads on GroupDIY, the [GSSL help thread](https://groupdiy.com/threa
 
 So, to solve this problem:
 1. This code will collate all the comments from the forum and put them into ```.csv``` file. 
-2. Then you can use microsoft excel or google sheets or whatever to filter the message column and search for keywords if you want, like for example:
+2. Comments are sorted by date
+3. Then you can use microsoft excel or google sheets or whatever to filter the message column and search for keywords if you want, like for example:
 
 - ```Resistor R2 Measured volts```
 - ```Distortion at low volume```
