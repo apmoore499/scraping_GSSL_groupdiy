@@ -1,11 +1,12 @@
-# IF YOU HAVE COME HERE FOR COMPILED BUILD THREAD FOR GYRAF SSL COMP
+---------
 
+# IF YOU HAVE COME HERE FOR COMPILED BUILD THREAD FOR GYRAF SSL COMP
 
 google sheets link:
 
 offline copy:
 
-
+------
 
 
 # IF YOU WANT TO FORK / CONTRIBUTE TO PROJECT
@@ -20,8 +21,23 @@ Motivation: like many threads on GroupDIY, the help thread is many pages long an
 
 or whatever. Then you can sift through the relevant comments. The goal is to simplify and facilitate the process of troubleshooting, so that we can spend more time recording.
 
+The script is a python creation which uses beautiful soup to scrape the entire thread, and then dumps it into a csv file
 
-# scraping_GSSL_groupdiy
-python script using beautiful soup to scrape build thread for gyraf SSL
+**build/run instructions:**
+
+```sh
+python3 -m venv myvenv
+source myvenv/bin/activate
+pip install -r requirements.txt
+python compile_GSSL.py
+```
+
+Improvements:
+- Incorporate comment upvote score so we can prioritise helpful comments
+- Maybe NLP algo to summarise and simplify text
+- Images would be useful
+- Hyperlinks would be useful
+- Expand to other threads
+
 
 
