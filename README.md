@@ -4,6 +4,8 @@
 
 Here is the csv file with all comments. It's included in this repository.
 
+<a href="COMPILED_COMMENTS_GSSL_THREAD_GROUPDIY_08_09_2022.csv" download>Click to Download</a>
+
 [COMPILED_GSSL_THREAD.csv](COMPILED_COMMENTS_GSSL_THREAD_GROUPDIY_08_09_2022.csv)
 
 ------
