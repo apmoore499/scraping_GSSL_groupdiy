@@ -2,9 +2,9 @@
 
 # IF YOU HAVE COME HERE FOR COMPILED BUILD THREAD FOR GYRAF SSL COMP
 
-google sheets link:
+google sheets link: [COMPILED_GSSL_THREAD](https://docs.google.com/spreadsheets/d/e/2PACX-1vTAL9sXreWVoh8NumRVwEbLSpM1RYr5DwI0iPgEExkyjEc3JIpAmQ5r7NQMIKoCCIbJS3LWcIvyyW0p/pubhtml)
 
-offline copy:
+offline copy: [COMPILED_GSSL_THREAD.csv](https://docs.google.com/spreadsheets/d/e/2PACX-1vTAL9sXreWVoh8NumRVwEbLSpM1RYr5DwI0iPgEExkyjEc3JIpAmQ5r7NQMIKoCCIbJS3LWcIvyyW0p/pub?output=csv)
 
 ------
 
@@ -32,12 +32,12 @@ pip install -r requirements.txt
 python compile_GSSL.py
 ```
 
-Improvements:
+Points for improvement
 - Incorporate comment upvote score so we can prioritise helpful comments
-- Maybe NLP algo to summarise and simplify text
 - Images would be useful
 - Hyperlinks would be useful
 - Expand to other threads
+- Maybe NLP algo to summarise and simplify text
 
 
 
