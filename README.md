@@ -2,11 +2,9 @@
 
 # IF YOU HAVE COME HERE FOR COMPILED BUILD THREAD FOR GYRAF SSL COMP
 
-Here is the csv file with all comments. It's included in this repository.
+Here is the csv file with all comments. Also included in repo.
 
-<a href="COMPILED_COMMENTS_GSSL_THREAD_GROUPDIY_08_09_2022.csv" download>Click to Download</a>
-
-[COMPILED_GSSL_THREAD.csv](COMPILED_COMMENTS_GSSL_THREAD_GROUPDIY_08_09_2022.csv)
+[COMPILED_GSSL_THREAD.csv](https://docs.google.com/spreadsheets/d/e/2PACX-1vSS_FwQsV4UeOD_JfYzM5SHk555R5p9gVxpgY2Bl2S1JEARZHV6ghMUUN9aiQ__X0h-sGdpz7w4L4ie/pub?output=csv)
 
 ------
 
