@@ -2,9 +2,9 @@
 
 # IF YOU HAVE COME HERE FOR COMPILED BUILD THREAD FOR GYRAF SSL COMP
 
-google sheets link: [COMPILED_GSSL_THREAD](https://docs.google.com/spreadsheets/d/e/2PACX-1vTAL9sXreWVoh8NumRVwEbLSpM1RYr5DwI0iPgEExkyjEc3JIpAmQ5r7NQMIKoCCIbJS3LWcIvyyW0p/pubhtml)
+Here is the csv file with all comments. It's included in this repository.
 
-offline copy: [COMPILED_GSSL_THREAD.csv](https://docs.google.com/spreadsheets/d/e/2PACX-1vTAL9sXreWVoh8NumRVwEbLSpM1RYr5DwI0iPgEExkyjEc3JIpAmQ5r7NQMIKoCCIbJS3LWcIvyyW0p/pub?output=csv)
+[COMPILED_GSSL_THREAD.csv](COMPILED_COMMENTS_GSSL_THREAD_GROUPDIY_08_09_2022.csv)
 
 ------
 
@@ -35,10 +35,12 @@ The script is python3, uses beautiful soup to scrape the entire thread, and then
 **build/run instructions:**
 
 ```sh
-python3 -m venv myvenv
-source myvenv/bin/activate
-pip install -r requirements.txt
-python compile_GSSL.py
+git clone ...
+cd scraping_GSSL_groupdiy;
+python3 -m venv myvenv;
+source myvenv/bin/activate;
+pip install -r requirements.txt;
+python compile_GSSL.py;
 ```
 
 Points for improvement
