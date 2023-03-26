@@ -13,7 +13,7 @@ Here is the csv file with time-stamped commments, starting in 2004.
 
 # IF YOU WANT TO FORK / CONTRIBUTE TO PROJECT
 
-Many thanks go to Jakob Gyraf & the community at GroupDIY for this wonderful GSSL compressor!
+Many thanks go to Jakob Erland & the community at GroupDIY for this wonderful GSSL compressor!
 
 **Motivation**
 
